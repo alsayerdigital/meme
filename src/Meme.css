@@ -22,3 +22,5 @@ main {
   font-size: 1.25rem;
   border-radius: 5px;
 }
+
+.form img{grid-column: 1/-1;max-width: 100%;align-items: center;justify-items: center;text-align: center;}
